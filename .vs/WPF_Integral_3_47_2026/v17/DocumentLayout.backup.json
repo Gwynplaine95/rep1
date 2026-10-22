@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|c:\\users\\vpran\\downloads\\telegram desktop\\wpf_integral_3_47_2026\\wpf_integral\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|solutionrelative:wpf_integral\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EBBA2-9B9C-4F5B-A11F-518C8DC4AEC4}|CalcLib.Tests\\CalcLib.Tests.csproj|C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\calclib.tests\\simpsontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EBBA2-9B9C-4F5B-A11F-518C8DC4AEC4}|CalcLib.Tests\\CalcLib.Tests.csproj|solutionrelative:calclib.tests\\simpsontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|c:\\users\\vpran\\downloads\\telegram desktop\\wpf_integral_3_47_2026\\wpf_integral\\classes\\simpson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|solutionrelative:wpf_integral\\classes\\simpson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|c:\\users\\vpran\\downloads\\telegram desktop\\wpf_integral_3_47_2026\\wpf_integral\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|solutionrelative:wpf_integral\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|c:\\users\\vpran\\downloads\\telegram desktop\\wpf_integral_3_47_2026\\wpf_integral\\classes\\trapezoidcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|solutionrelative:wpf_integral\\classes\\trapezoidcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|c:\\users\\vpran\\downloads\\telegram desktop\\wpf_integral_3_47_2026\\wpf_integral\\classes\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743E161-A8C5-493F-9E7C-9EE63D8191C2}|WPF_Integral\\WPF_Integral.csproj|solutionrelative:wpf_integral\\classes\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EBBA2-9B9C-4F5B-A11F-518C8DC4AEC4}|CalcLib.Tests\\CalcLib.Tests.csproj|C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\calclib.tests\\simpsontest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EBBA2-9B9C-4F5B-A11F-518C8DC4AEC4}|CalcLib.Tests\\CalcLib.Tests.csproj|solutionrelative:calclib.tests\\simpsontest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpsonTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\CalcLib.Tests\\SimpsonTest1.cs",
+              "RelativeDocumentMoniker": "CalcLib.Tests\\SimpsonTest1.cs",
+              "ToolTip": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\CalcLib.Tests\\SimpsonTest1.cs",
+              "RelativeToolTip": "CalcLib.Tests\\SimpsonTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:02:18.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simpson.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\Classes\\Simpson.cs",
+              "RelativeDocumentMoniker": "WPF_Integral\\Classes\\Simpson.cs",
+              "ToolTip": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\Classes\\Simpson.cs",
+              "RelativeToolTip": "WPF_Integral\\Classes\\Simpson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T15:54:50.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrapezoidCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\Classes\\TrapezoidCalculator.cs",
+              "RelativeDocumentMoniker": "WPF_Integral\\Classes\\TrapezoidCalculator.cs",
+              "ToolTip": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\Classes\\TrapezoidCalculator.cs",
+              "RelativeToolTip": "WPF_Integral\\Classes\\TrapezoidCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T15:55:38.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Integral\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Integral\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:42:26.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpsonTest.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\CalcLib.Tests\\SimpsonTest.cs",
+              "RelativeDocumentMoniker": "CalcLib.Tests\\SimpsonTest.cs",
+              "ToolTip": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\CalcLib.Tests\\SimpsonTest.cs",
+              "RelativeToolTip": "CalcLib.Tests\\SimpsonTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:02:45.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\Classes\\ICalculator.cs",
+              "RelativeDocumentMoniker": "WPF_Integral\\Classes\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\Classes\\ICalculator.cs",
+              "RelativeToolTip": "WPF_Integral\\Classes\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:07:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Integral\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vpran\\Downloads\\Telegram Desktop\\WPF_Integral_3_47_2026\\WPF_Integral\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Integral\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-24T10:43:21.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
